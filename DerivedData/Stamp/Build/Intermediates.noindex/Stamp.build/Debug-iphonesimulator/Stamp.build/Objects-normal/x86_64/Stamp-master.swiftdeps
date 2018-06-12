@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "e71b88b891e521547a4d58ff1d0ac7be"
+build_time: [1528813071, 369263000]
+inputs:
+  "/Users/obayashitakumi/Desktop/LiT!/schooltext/Stamp/Stamp/ViewController.swift": [1528811791, 0]
+  "/Users/obayashitakumi/Desktop/LiT!/schooltext/Stamp/Stamp/AppDelegate.swift": [1528811791, 0]
